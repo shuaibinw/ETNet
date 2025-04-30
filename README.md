@@ -1,6 +1,6 @@
 # ETNet
 Transformer-based Transferable Deep Learning Framework for Enhancer-Enhancer Interaction Prediction
-## 1. Clone the UniChrom repository:
+## 1. Clone the ETNet repository:
 git clone https://github.com/shuaibinw/ETNet.git
 <br>cd ETNet
 ## 2. Install the required dependencies:
