@@ -1,0 +1,103 @@
+MOTIF MA0036.4 GATA2
+# Matched count: 249
+# Matched GM motifs: contrib_39, contrib_380, contrib_596, contrib_659, contrib_860, contrib_1076, contrib_1258, contrib_1442, contrib_1541, contrib_1838, contrib_1903, contrib_2049, contrib_2228, contrib_2455, contrib_2852, contrib_2875, contrib_2957, contrib_3042, contrib_3098, contrib_3264, contrib_3417, contrib_3432, contrib_3732, contrib_3755, contrib_3861, contrib_3977, contrib_4017, contrib_4055, contrib_4152, contrib_4344, contrib_4447, contrib_4464, contrib_4509, contrib_4558, contrib_4631, contrib_4712, contrib_4993, contrib_5077, contrib_5237, contrib_5239, contrib_5547, contrib_5905, contrib_6104, contrib_6239, contrib_6594, contrib_6615, contrib_7235, contrib_7381, contrib_7509, contrib_7517, contrib_7622, contrib_7818, contrib_8219, contrib_8248, contrib_8321, contrib_8502, contrib_8649, contrib_9102, contrib_9141, contrib_9158, contrib_9160, contrib_9174, contrib_9207, contrib_9379, contrib_9525, contrib_9595, contrib_10051, contrib_10074, contrib_10621, contrib_10767, contrib_10789, contrib_11004, contrib_11077, contrib_11098, contrib_11428, contrib_11835, contrib_12006, contrib_12027, contrib_12088, contrib_12312, contrib_12728, contrib_12946, contrib_13050, contrib_13364, contrib_13465, contrib_13471, contrib_13476, contrib_13563, contrib_13831, contrib_14426, contrib_14569, contrib_14641, contrib_15260, contrib_15447, contrib_15587, contrib_15660, contrib_16117, contrib_17192, contrib_17203, contrib_17428, contrib_17642, contrib_17647, contrib_18137, contrib_18781, contrib_19035, contrib_19106, contrib_19250, contrib_19276, contrib_19392, contrib_19441, contrib_19541, contrib_20109, contrib_20186, contrib_20248, contrib_20490, contrib_20782, contrib_20942, contrib_21123, contrib_21630, contrib_21703, contrib_21801, contrib_21895, contrib_22552, contrib_22633, contrib_22780, contrib_23013, contrib_23167, contrib_23189, contrib_23280, contrib_23423, contrib_23433, contrib_23810, contrib_24171, contrib_24204, contrib_24213, contrib_24275, contrib_25046, contrib_25467, contrib_25483, contrib_25538, contrib_25763, contrib_25882, contrib_25931, contrib_25978, contrib_26024, contrib_26144, contrib_26425, contrib_26451, contrib_26603, contrib_26606, contrib_26729, contrib_26823, contrib_26928, contrib_27488, contrib_27713, contrib_28075, contrib_28352, contrib_28372, contrib_28442, contrib_28457, contrib_28509, contrib_28648, contrib_28727, contrib_28855, contrib_29016, contrib_29189, contrib_29204, contrib_29322, contrib_29383, contrib_29428, contrib_29967, contrib_30068, contrib_30493, contrib_30528, contrib_30672, contrib_30793, contrib_30871, contrib_31127, contrib_31227, contrib_31323, contrib_31354, contrib_31400, contrib_31428, contrib_31440, contrib_31464, contrib_31570, contrib_31593, contrib_31883, contrib_32049, contrib_32193, contrib_32352, contrib_32510, contrib_32622, contrib_32994, contrib_33208, contrib_33224, contrib_33649, contrib_34313, contrib_34620, contrib_34915, contrib_35035, contrib_35092, contrib_35147, contrib_35189, contrib_35306, contrib_35372, contrib_35652, contrib_35891, contrib_35957, contrib_36005, contrib_36409, contrib_36537, contrib_36625, contrib_36727, contrib_36934, contrib_36979, contrib_37142, contrib_37220, contrib_37504, contrib_37630, contrib_37661, contrib_37783, contrib_37881, contrib_37896, contrib_37945, contrib_38316, contrib_38325, contrib_38511, contrib_38661, contrib_38907, contrib_38948, contrib_39232, contrib_39306, contrib_39511, contrib_39531, contrib_39661, contrib_39669, contrib_39697, contrib_39748, contrib_39889, contrib_39916, contrib_39936, contrib_40228, contrib_40275, contrib_40293, contrib_40307, contrib_40361, contrib_40450, contrib_40586
+letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
+ 0.066137  0.746289  0.086048  0.101527
+ 0.031239  0.018223  0.010554  0.939985
+ 0.029339  0.002392  0.001478  0.966791
+ 0.991909  0.000985  0.003025  0.004081
+ 0.010202  0.005418  0.003377  0.981003
+ 0.006754  0.969957  0.008865  0.014423
+ 0.166960  0.034616  0.025821  0.772603
+
+
+MOTIF MA0035.5 GATA1
+# Matched count: 181
+# Matched GM motifs: contrib_55, contrib_294, contrib_416, contrib_642, contrib_1289, contrib_1570, contrib_1644, contrib_1957, contrib_2004, contrib_2059, contrib_2326, contrib_3320, contrib_3351, contrib_3512, contrib_3632, contrib_4514, contrib_4790, contrib_5375, contrib_5465, contrib_5685, contrib_5868, contrib_5883, contrib_6375, contrib_6400, contrib_6424, contrib_6428, contrib_6459, contrib_6774, contrib_6938, contrib_7350, contrib_7355, contrib_7360, contrib_7762, contrib_7791, contrib_7823, contrib_8514, contrib_8694, contrib_8796, contrib_8835, contrib_8908, contrib_9498, contrib_9559, contrib_10670, contrib_10783, contrib_11135, contrib_11174, contrib_11226, contrib_11470, contrib_11475, contrib_11569, contrib_11671, contrib_11790, contrib_11793, contrib_11806, contrib_11902, contrib_12058, contrib_12245, contrib_12435, contrib_12518, contrib_12851, contrib_13292, contrib_13412, contrib_13641, contrib_13660, contrib_13692, contrib_14335, contrib_14626, contrib_14918, contrib_15575, contrib_15583, contrib_15629, contrib_16373, contrib_16597, contrib_16603, contrib_16609, contrib_16615, contrib_17277, contrib_17331, contrib_17395, contrib_17462, contrib_17677, contrib_17908, contrib_17999, contrib_18131, contrib_18224, contrib_18409, contrib_18553, contrib_18698, contrib_18809, contrib_19261, contrib_19362, contrib_19432, contrib_19646, contrib_19686, contrib_19734, contrib_19740, contrib_19979, contrib_20172, contrib_20704, contrib_20718, contrib_21404, contrib_21802, contrib_21870, contrib_22130, contrib_22138, contrib_22150, contrib_22170, contrib_22211, contrib_22407, contrib_22696, contrib_22789, contrib_22943, contrib_23009, contrib_23527, contrib_23947, contrib_24316, contrib_24327, contrib_24385, contrib_25394, contrib_25750, contrib_26023, contrib_26473, contrib_28087, contrib_28101, contrib_28186, contrib_29269, contrib_29540, contrib_29626, contrib_30307, contrib_30468, contrib_30792, contrib_31089, contrib_31677, contrib_31855, contrib_32341, contrib_32386, contrib_32495, contrib_32540, contrib_32762, contrib_32793, contrib_32821, contrib_33204, contrib_33274, contrib_33670, contrib_33726, contrib_34238, contrib_34306, contrib_34618, contrib_34624, contrib_34760, contrib_35344, contrib_36046, contrib_36590, contrib_36947, contrib_37093, contrib_37103, contrib_37269, contrib_37471, contrib_37697, contrib_37892, contrib_38119, contrib_38306, contrib_38362, contrib_38583, contrib_38633, contrib_38635, contrib_38680, contrib_38877, contrib_38888, contrib_39013, contrib_39160, contrib_39284, contrib_39374, contrib_39488, contrib_39536, contrib_39745, contrib_39782, contrib_39791, contrib_39995, contrib_40029, contrib_40775
+letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
+ 0.055034  0.869007  0.037757  0.038202
+ 0.018294  0.008284  0.009077  0.964345
+ 0.691819  0.009885  0.011917  0.286379
+ 0.940441  0.017987  0.013755  0.027816
+ 0.030712  0.017236  0.008604  0.943448
+ 0.035738  0.917985  0.020479  0.025798
+ 0.102982  0.042114  0.010650  0.844253
+
+
+MOTIF MA0766.3 GATA5
+# Matched count: 87
+# Matched GM motifs: contrib_173, contrib_973, contrib_1331, contrib_2003, contrib_2133, contrib_3739, contrib_4101, contrib_4516, contrib_5198, contrib_5515, contrib_5647, contrib_5710, contrib_5754, contrib_6083, contrib_6593, contrib_6669, contrib_6897, contrib_7663, contrib_7710, contrib_7743, contrib_8268, contrib_9150, contrib_9451, contrib_11282, contrib_12106, contrib_13337, contrib_13490, contrib_13649, contrib_13903, contrib_13918, contrib_13924, contrib_14889, contrib_15705, contrib_15767, contrib_15777, contrib_16097, contrib_16145, contrib_16728, contrib_17143, contrib_18266, contrib_18336, contrib_18448, contrib_18696, contrib_19604, contrib_21824, contrib_22203, contrib_22423, contrib_22574, contrib_23194, contrib_23380, contrib_23913, contrib_24527, contrib_24675, contrib_25909, contrib_26175, contrib_26314, contrib_26605, contrib_26836, contrib_27248, contrib_27719, contrib_28415, contrib_28707, contrib_29111, contrib_29837, contrib_30173, contrib_31361, contrib_31406, contrib_31650, contrib_32091, contrib_32383, contrib_33642, contrib_33846, contrib_34102, contrib_35298, contrib_35544, contrib_35887, contrib_37127, contrib_37402, contrib_37727, contrib_37999, contrib_38200, contrib_38304, contrib_38701, contrib_39077, contrib_39303, contrib_39347, contrib_40460
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+ 0.451913  0.131162  0.002930  0.413995
+ 0.000000  0.000000  1.000000  0.000000
+ 1.000000  0.000000  0.000000  0.000000
+ 0.000000  0.000000  0.000000  1.000000
+ 0.978917  0.000000  0.000000  0.021083
+ 0.974387  0.000000  0.012680  0.012933
+ 0.013114  0.469751  0.480886  0.036249
+ 0.373468  0.166996  0.424839  0.034698
+
+
+MOTIF MA0482.3 GATA4
+# Matched count: 42
+# Matched GM motifs: contrib_576, contrib_1287, contrib_1390, contrib_1473, contrib_1945, contrib_2623, contrib_3395, contrib_3966, contrib_5887, contrib_6301, contrib_10139, contrib_12174, contrib_12559, contrib_13952, contrib_13967, contrib_17417, contrib_18848, contrib_18990, contrib_19906, contrib_20387, contrib_21055, contrib_23778, contrib_26703, contrib_28083, contrib_28121, contrib_28189, contrib_28500, contrib_28902, contrib_29114, contrib_29506, contrib_29764, contrib_31140, contrib_32534, contrib_33001, contrib_33162, contrib_34332, contrib_36069, contrib_36305, contrib_36667, contrib_38581, contrib_38769, contrib_39613
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+ 0.067391  0.648812  0.086403  0.197394
+ 0.053377  0.848307  0.018690  0.079625
+ 0.026875  0.024215  0.012692  0.936219
+ 0.027959  0.023333  0.013692  0.935015
+ 0.922154  0.028858  0.021097  0.027892
+ 0.013048  0.009862  0.009133  0.967957
+ 0.008134  0.958146  0.009625  0.024096
+ 0.129783  0.030366  0.023317  0.816535
+
+
+MOTIF MA0037.5 Gata3
+# Matched count: 24
+# Matched GM motifs: contrib_2415, contrib_2421, contrib_2427, contrib_3550, contrib_9216, contrib_14524, contrib_17774, contrib_20953, contrib_21659, contrib_22422, contrib_23521, contrib_25264, contrib_26329, contrib_28515, contrib_29746, contrib_32399, contrib_32426, contrib_32477, contrib_33570, contrib_34006, contrib_36093, contrib_36499, contrib_36753, contrib_39048
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+ 0.081068  0.155179  0.102582  0.661171
+ 0.038041  0.792263  0.087060  0.082636
+ 0.031929  0.037317  0.011259  0.919495
+ 0.039569  0.030481  0.038604  0.891346
+ 0.923838  0.022760  0.021232  0.032170
+ 0.017171  0.011340  0.011702  0.959788
+ 0.011822  0.958622  0.010254  0.019302
+ 0.124658  0.036312  0.024449  0.814581
+
+
+MOTIF MA1104.3 GATA6
+# Matched count: 5
+# Matched GM motifs: contrib_11805, contrib_19585, contrib_27920, contrib_34337, contrib_37111
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+ 0.074417  0.148923  0.088943  0.687717
+ 0.057084  0.792206  0.081303  0.069407
+ 0.032224  0.018113  0.007301  0.942362
+ 0.063491  0.017534  0.007741  0.911233
+ 0.965284  0.010259  0.010309  0.014148
+ 0.018969  0.010725  0.005740  0.964566
+ 0.013796  0.955768  0.008962  0.021474
+ 0.165513  0.040632  0.022783  0.771071
+
+
+MOTIF MA0140.3 GATA1::TAL1
+# Matched count: 1
+# Matched GM motifs: contrib_27822
+letter-probability matrix: alength= 4 w= 17 nsites= 20 E= 0
+ 0.041574  0.162866  0.032089  0.763471
+ 0.064178  0.000000  0.000000  0.935822
+ 1.000000  0.000000  0.000000  0.000000
+ 0.000000  0.000000  0.000000  1.000000
+ 0.000000  1.000000  0.000000  0.000000
+ 0.413522  0.012714  0.011100  0.562664
+ 0.132795  0.268618  0.446821  0.151766
+ 0.194349  0.245005  0.251060  0.309586
+ 0.240363  0.227447  0.306761  0.225429
+ 0.358829  0.228052  0.199798  0.213320
+ 0.209485  0.249647  0.345510  0.195358
+ 0.272856  0.230474  0.295863  0.200807
+ 0.380424  0.208476  0.165489  0.245610
+ 0.278708  0.249647  0.380222  0.091423
+ 0.022200  0.973158  0.004642  0.000000
+ 0.940262  0.000000  0.000000  0.059738
+ 0.032291  0.179617  0.715237  0.072856

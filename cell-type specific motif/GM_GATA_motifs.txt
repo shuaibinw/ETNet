@@ -1,0 +1,80 @@
+MOTIF MA0035.5 GATA1
+# Matched count: 21
+# Matched GM motifs: contrib_123, contrib_159, contrib_193, contrib_467, contrib_672, contrib_1117, contrib_1243, contrib_1275, contrib_1350, contrib_1961, contrib_2313, contrib_3153, contrib_3176, contrib_3931, contrib_4035, contrib_5916, contrib_5920, contrib_6506, contrib_7352, contrib_7497, contrib_7768
+letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
+ 0.055034  0.869007  0.037757  0.038202
+ 0.018294  0.008284  0.009077  0.964345
+ 0.691819  0.009885  0.011917  0.286379
+ 0.940441  0.017987  0.013755  0.027816
+ 0.030712  0.017236  0.008604  0.943448
+ 0.035738  0.917985  0.020479  0.025798
+ 0.102982  0.042114  0.010650  0.844253
+
+
+MOTIF MA0037.5 Gata3
+# Matched count: 2
+# Matched GM motifs: contrib_156, contrib_6853
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+ 0.081068  0.155179  0.102582  0.661171
+ 0.038041  0.792263  0.087060  0.082636
+ 0.031929  0.037317  0.011259  0.919495
+ 0.039569  0.030481  0.038604  0.891346
+ 0.923838  0.022760  0.021232  0.032170
+ 0.017171  0.011340  0.011702  0.959788
+ 0.011822  0.958622  0.010254  0.019302
+ 0.124658  0.036312  0.024449  0.814581
+
+
+MOTIF MA0036.4 GATA2
+# Matched count: 40
+# Matched GM motifs: contrib_421, contrib_558, contrib_725, contrib_780, contrib_795, contrib_910, contrib_1100, contrib_1498, contrib_1813, contrib_2066, contrib_2077, contrib_2269, contrib_2338, contrib_2388, contrib_2498, contrib_2648, contrib_2703, contrib_2764, contrib_2807, contrib_2808, contrib_2811, contrib_3175, contrib_3258, contrib_3451, contrib_3460, contrib_3775, contrib_3785, contrib_4810, contrib_5328, contrib_5380, contrib_6757, contrib_6870, contrib_6925, contrib_6989, contrib_7174, contrib_7184, contrib_7259, contrib_7317, contrib_7346, contrib_7796
+letter-probability matrix: alength= 4 w= 7 nsites= 20 E= 0
+ 0.066137  0.746289  0.086048  0.101527
+ 0.031239  0.018223  0.010554  0.939985
+ 0.029339  0.002392  0.001478  0.966791
+ 0.991909  0.000985  0.003025  0.004081
+ 0.010202  0.005418  0.003377  0.981003
+ 0.006754  0.969957  0.008865  0.014423
+ 0.166960  0.034616  0.025821  0.772603
+
+
+MOTIF MA0482.3 GATA4
+# Matched count: 4
+# Matched GM motifs: contrib_466, contrib_5406, contrib_6953, contrib_6954
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+ 0.067391  0.648812  0.086403  0.197394
+ 0.053377  0.848307  0.018690  0.079625
+ 0.026875  0.024215  0.012692  0.936219
+ 0.027959  0.023333  0.013692  0.935015
+ 0.922154  0.028858  0.021097  0.027892
+ 0.013048  0.009862  0.009133  0.967957
+ 0.008134  0.958146  0.009625  0.024096
+ 0.129783  0.030366  0.023317  0.816535
+
+
+MOTIF MA0766.3 GATA5
+# Matched count: 4
+# Matched GM motifs: contrib_1786, contrib_1787, contrib_4952, contrib_7171
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+ 0.451913  0.131162  0.002930  0.413995
+ 0.000000  0.000000  1.000000  0.000000
+ 1.000000  0.000000  0.000000  0.000000
+ 0.000000  0.000000  0.000000  1.000000
+ 0.978917  0.000000  0.000000  0.021083
+ 0.974387  0.000000  0.012680  0.012933
+ 0.013114  0.469751  0.480886  0.036249
+ 0.373468  0.166996  0.424839  0.034698
+
+
+MOTIF MA1104.3 GATA6
+# Matched count: 1
+# Matched GM motifs: contrib_4180
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+ 0.074417  0.148923  0.088943  0.687717
+ 0.057084  0.792206  0.081303  0.069407
+ 0.032224  0.018113  0.007301  0.942362
+ 0.063491  0.017534  0.007741  0.911233
+ 0.965284  0.010259  0.010309  0.014148
+ 0.018969  0.010725  0.005740  0.964566
+ 0.013796  0.955768  0.008962  0.021474
+ 0.165513  0.040632  0.022783  0.771071
